@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/sb-admin-2/vendor/bootstrap/js/bootstrap.bundle.min.js": "/sb-admin-2/vendor/bootstrap/js/bootstrap.bundle.min.js",
+    "/sb-admin-2/js/sb-admin-2.min.js": "/sb-admin-2/js/sb-admin-2.min.js",
+    "/assets/fund/js/index.js": "/assets/fund/js/index.js",
+    "/assets/fund/js/new.js": "/assets/fund/js/new.js",
+    "/assets/fund/js/edit.js": "/assets/fund/js/edit.js",
+    "/sb-admin-2/css/sb-admin-2.min.css": "/sb-admin-2/css/sb-admin-2.min.css",
+    "/css/app.css": "/css/app.css"
+}
